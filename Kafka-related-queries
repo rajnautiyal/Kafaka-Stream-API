@@ -1,0 +1,57 @@
+Important tool 
+
+Tools to extract data from database to kafka 
+
+hbr
+talent 
+pantow
+
+
+
+
+
+Outof the box connect 
+
+kafka connect 
+--------------
+
+
+Producer
+
+Seriliazation technology
+Avero 
+thrift
+
+
+Words
+-------------
+At least once semetic
+At most one semetic
+
+-----
+enable Idempotence=true
+
+trascation atomicity
+--------------------
+
+idpomentance is already enabled when we set transcation 
+
+json schema to pojo mvn plugin
+
+---------------------------
+
+
+Kafka Stream APi 
+----------------
+Stream DSL
+Processor APi
+
+
+
+Question 
+-----
+1. How in appd cloud we are defining the topology
+2. How many consumer task we are running in each services
+
+
+
